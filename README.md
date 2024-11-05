@@ -219,9 +219,9 @@ status: active
 sudo systemctl status nginx
 ```
 
-# using EC2 in aws:-
+# using EC2 in AWS:-
 
-First open aws search EC2 then Launch Instance and there select keypair in putty then download it
+First open AWS search EC2 then Launch Instance and there select keypair in putty then download it
 
 after that Launch it and run putty and paste public id on HOST NAME and open that downloaded key pair for putty in SSH then Auth then Credentials and open there
 
@@ -270,18 +270,17 @@ rm means remove command
 vi index.html
 ```
 
-## this will open a notepad like and write html code there like (vi is editor) -
+this will open a notepad like and write html code there like (vi is editor) -
 
-## then press ctrl+c then shift+colon then write wq and enter
+then press ctrl+c then shift+colon then write wq and enter
 
-## now copy your public ip and paste it on browser you will see the texts written by you (by using html above)
+now copy your public ip and paste it on browser you will see the texts written by you (by using html above)
 
-# congratulations you got it 👏🏻 🎉 
 
 
 # USING CONTAINER IN VM and adding nginx server by Docker:- 
 
-First open aws search EC2 then Launch Instance and there select keypair in putty then download it
+First open AWS search EC2 then Launch Instance and there select keypair in putty then download it
 
 after that edit network setting and click on add security group rule and select TCP,UDP,ALL TRAFFIC AND SELECT EVERYWHERE SOURCE TYPE IN THEM then Launch it and run putty and paste public id on HOST NAME and open that downloaded key pair for putty in SSH 
 
@@ -328,17 +327,17 @@ docker pull nginx
 docker run --name docker-nginx -p 80:80 nginx
 ```
 
-## Nginx installed, you can configure the container so that it’s publicly accessible as a web server.
+Nginx installed, you can configure the container so that it’s publicly accessible as a web server.
 
-## run is the command to create a new container
+run is the command to create a new container
 
-## The --name flag is how you specify the name of the container. If left blank, a generated name like nostalgic_hopper will be assigned.
+The --name flag is how you specify the name of the container. If left blank, a generated name like nostalgic_hopper will be assigned.
 
-## -p specifies the port you are exposing in the format of -p local-machine-port:internal-container-port. In this case, you are mapping port :80 in the container to port :80 on the server.
+-p specifies the port you are exposing in the format of -p local-machine-port:internal-container-port. In this case, you are mapping port :80 in the container to port :80 on the server.
 
-## nginx is the name of the image on Docker Hub.
+nginx is the name of the image on Docker Hub.
 
-## now this will show this on your public ip
+now this will show this on your public ip
 
 ![Screenshot_2024_0923_210801](https://github.com/user-attachments/assets/12ed503f-9c71-4c80-bcb3-468c989c0258)
 
