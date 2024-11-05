@@ -730,9 +730,7 @@ Amazon Virtual Private Cloud (VPC) is a virtual network that allows users to lau
 
 ### types of network 
 
-![Screenshot_2024_1105_071234](https://github.com/user-attachments/assets/756402b9-6449-449b-aa2f-5ed46c23f185)
-
-![Screenshot_2024_1105_050930](https://github.com/user-attachments/assets/1bfa85e4-0476-4afa-ba21-d909617fbffa)
+![Screenshot_2024_1105_071234](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirLeSagDIvqf5VQpAIankKXm3uMvUPceToM722xg6sE8bK7wcL8aU6nnhIht_LG6p5SMy_GkpfTbsnmrfmAR5d52B4Pj8-HrrxzXOuPyWdMe3PR2DyN6bCix7aFZ-uOTFKvZFpcj2GDKI/s1600/Types+of+Computer+Networks+%28www.tutorialsmate.com%29.png)
 
 
 ## Network Devices:-
@@ -770,6 +768,12 @@ used to create a user space network bridge.
 
  create a tunnel network to reach       another network .
    
+
+## 7. OVS :- Open virtual switch 
+
+it is used with hypervisors to interconnect virtual machines within a host and between different hosts accross networks.
+
+## 8. QEMU :- Quick emulator 
 ## Basic terms for understanding networking better:- 
 
 ## 1.NAT :- 
@@ -792,16 +796,7 @@ it is a set of libraries and drivers that accelerates packet processing and thei
 
  it is a new programmable processor that helps move data around data centres. it ensures right data goes to right place in right format quickly .
 
-![Screenshot_2024_1105_073335](https://github.com/user-attachments/assets/699dfc47-d00b-4a1b-bdc2-5d32080470e6)
-
 ## 6.CSI :- Container Storage Interface 
-
-
-## 7. OVS :- Open virtual switch 
-
-it is used with hypervisors to interconnect virtual machines within a host and between different hosts accross networks.
-
-## 8. QEMU :- Quick emulator 
 
 free open source machine it can run various guest operating systems (OS's ) and architecture on a single host system.
 
@@ -809,14 +804,11 @@ free open source machine it can run various guest operating systems (OS's ) and 
 
 it is like a container that holds everything your application needs to run including the code, libraries.
 
-![Screenshot_2024_0918_124023](https://github.com/user-attachments/assets/03fdbbef-5f0d-4a17-8797-f8e8ca8a5f58)
- 
 
 ## 10. Kubernets :- 
 
 it is like a manager for containers .it helps to deploy, scale and manage a group of containers making sure they run smoothly.
 
-![Screenshot_2024_0923_215514](https://github.com/user-attachments/assets/33116348-3bf9-48cb-8403-51f9696905d7)
 
 ## 11. web assembly:- (WASM)
 
@@ -826,12 +818,8 @@ technology that allows you to run code written in different programming language
 security system that controls incoming and outgoing network traffic based on pre- determined security rules.
 
 ## 13. DMZ :- 
-
-![Screenshot_2024_1105_054418](https://github.com/user-attachments/assets/3272f7eb-6310-4ff7-91ab-5eaf039eb3ae)
-
  
 ![Screenshot_2024_1105_054347](https://github.com/user-attachments/assets/bd343550-a15b-485c-a9c5-46ec430901b3)
-
 
 
 ## 14.  VxLAN :- 
