@@ -462,7 +462,6 @@ Minikube is a tool that sets up a Kubernetes environment on a local PC or laptop
 
 ![Screenshot_2024_0923_215611](https://kubernetes.io/images/docs/kubernetes-cluster-architecture.svg)
 
-![Screenshot_2024_0923_215736](https://kubernetes.io/docs/tutorials/kubernetes-basics/public/images/module_01_cluster.svg)
 
 # USING MINIKUBE IN AWS
 
@@ -628,15 +627,15 @@ http://server_ip:8001/api/v1/namespaces/kubernetes-dashboard/services/http:kuber
 
 # KVM:- Kernel-based Virtual Machine
 
-It is a technology that allows you to run multiple operating systems on a single physical machine. It turns the Linux kernel into a hypervisor, enabling virtual machines (VMs) to operate as if they were separate computers. 
+KVM (Kernel-based Virtual Machine) is a technology that enables multiple operating systems to run on a single physical machine. By turning the Linux kernel into a hypervisor, KVM allows virtual machines (VMs) to function independently, as if they were separate computers.
 
 ![Screenshot_2024_1104_185025](https://github.com/user-attachments/assets/aea55019-b763-4d9d-b8e1-05dec28115e5)
 
 # Openstack :-
 
-OpenStack is an open-source platform that lets you create and manage cloud computing services. It allows users to control computing power, storage, and networking in a data center through a web interface. Essentially, it helps organizations build their own private or public clouds, making it easier to deploy and manage applications.
+OpenStack is an open-source platform that enables the creation and management of cloud computing services. It provides a web interface for controlling computing power, storage, and networking resources in a data center. This allows organizations to build their own private or public clouds, simplifying the deployment and management of applications.
 
-![Screenshot_2024_1104_185043](https://github.com/user-attachments/assets/c0c86085-1b3c-4cd3-8276-11adebfbba49)
+![Screenshot_2024_1104_185043](https://object-storage-ca-ymq-1.vexxhost.net/swift/v1/6e4619c416ff4bd19e1c087f27a43eea/www-assets-prod/openstack-map/openstack-map-v20240401.png)
 
 # QEMU
 
@@ -718,18 +717,9 @@ Amazon Virtual Private Cloud (VPC) is a virtual network that allows users to lau
 
   ![Screenshot_2024_1104_183758](https://github.com/user-attachments/assets/bae13bf3-7e99-4944-86fb-156efc303382)
 
-### book link for reference of VPC given below (page 55 )
-
-{ https://www.scribd.com/document/454176546/AWS-lab-practice-guide-by-www-server-computer-com-v1
-}
-
-
-![Screenshot_2024_1105_055750](https://github.com/user-attachments/assets/268cad3b-5081-4e9b-9f17-a5aa70d6de41)
-
-
 # NETWORKING 
 
-![Screenshot_2024_1105_055827](https://github.com/user-attachments/assets/e060004d-ad36-482b-9128-ad60ad5ee88a)
+![Screenshot_2024_1105_055827](https://templates.visual-paradigm.com/repository/images/28b59946-50c7-4b65-8c3d-4753c276acd4/network-diagram-design/computer-network-diagram-template.png)
 
 
 ## what is client and server 
