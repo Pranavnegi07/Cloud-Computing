@@ -893,18 +893,7 @@ set of rules that determine how the packet is to be transferred and received and
  it is a protocol that powers the world wide web defining how messages are formatted and transmitted between web browsers and servers.
 
 
-## NETWORK STACK 
 
 
-
- ### TCP /IP 
- provide reliable transmission of       data. 
-
-
-## Packet flow, also known as network flow or traffic flow:- 
-
-it is the sequence of packets that travel from a source computer to a destination.
-
-•Packets are segments of data that are routed through a network of interconnected devices, such as switches and routers, before reaching their destination. 
 
 
