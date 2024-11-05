@@ -1,7 +1,7 @@
 # Cloud-computing-
 Concepts of cloud computing, basics, related topics details 
 
-![Screenshot_2024_0918_123427](https://media.gettyimages.com/id/1278832002/photo/cloud-servers-background.jpg?s=612x612&w=0&k=20&c=WtDfMGRQH1BMOZLk-aJPiYxT5XX-fiNuQX7F4ZgelFc=)
+![Screenshot_2024_0918_123427](https://wallpaperbat.com/img/1301774-cloud-computing-wallpaper.jpg)
 
 # Cloud Computing:- 
 
