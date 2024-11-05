@@ -1,7 +1,7 @@
 # Cloud-computing-
 Concepts of cloud computing, basics, related topics details 
 
-![Screenshot_2024_0918_123427](https://github.com/user-attachments/assets/9b54d9e2-5cb2-4a28-a145-9a5e9fb7490a)
+![Screenshot_2024_0918_123427](https://t4.ftcdn.net/jpg/05/63/33/69/360_F_563336929_ICd5pSoOsNvpnNeEC6IIC4awAdIZlwb8.jpg)
 
 # Cloud Computing:- 
 
