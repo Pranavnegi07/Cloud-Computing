@@ -339,8 +339,6 @@ nginx is the name of the image on Docker Hub.
 
 now this will show this on your public ip
 
-![Screenshot_2024_0923_210801](https://github.com/user-attachments/assets/12ed503f-9c71-4c80-bcb3-468c989c0258)
-
 ## In your terminal, enter CTRL+C to stop the container from running.
 
 ```bash
