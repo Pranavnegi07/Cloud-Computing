@@ -932,6 +932,3 @@ it is the sequence of packets that travel from a source computer to a destinatio
 
 
 
-![Screenshot_2024_1105_053413](https://github.com/user-attachments/assets/becaac0f-c161-4f79-8af0-4978b78d677b)
-
-
