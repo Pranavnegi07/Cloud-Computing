@@ -171,6 +171,7 @@ They require fewer virtual machines and operating systems, making them a more re
 NGINX is a popular, high-performance web server and reverse proxy server that excels at serving web applications and handling HTTP and HTTPS requests. Its key strengths include:
 
 Speed and efficiency: NGINX is designed to handle a large number of concurrent connections with minimal resource usage.
+
 Scalability: It can efficiently distribute traffic and handle load balancing, making it a reliable choice for high-traffic web applications.
 
 ![Screenshot_2024_0918_140523](https://github.com/user-attachments/assets/ff5971c8-d6b8-434e-b93a-8476dc5a8f83)
