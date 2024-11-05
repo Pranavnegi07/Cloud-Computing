@@ -873,17 +873,14 @@ when we send email or web page the data does not travel as single continuous str
   
 • it is a local action of moving and     arriving packets from a router's       input to appropriate router output     link.
 
-![Screenshot_2024_1105_051744](https://github.com/user-attachments/assets/fde5e9bc-24d6-47e6-ae97-f2328b3c70a2)
 
 ## 2. Routing :- 
  • global process of determining the      full paths packets take from source    to destination
 
-![Screenshot_2024_1105_052007](https://github.com/user-attachments/assets/fa851427-6a16-49ae-91e7-a5948adeafd7)
 
 ## Network Protocols:- 
 set of rules that determine how the packet is to be transferred and received and in which format .
 
-![Screenshot_2024_1105_052254](https://github.com/user-attachments/assets/1e091aaf-5a0f-46d5-a8ed-4d8cffa2959a)
 
 ### 1. TCP 
  
@@ -893,42 +890,24 @@ set of rules that determine how the packet is to be transferred and received and
 
  responsible for addressing and routing packets across the internet. 
 
-![Screenshot_2024_1105_052610](https://github.com/user-attachments/assets/c836af5c-8b7a-48e2-ab47-2a5d79e26cf0)
  
 ### 3. HTTP 
 
  it is a protocol that powers the world wide web defining how messages are formatted and transmitted between web browsers and servers.
- 
-![Screenshot_2024_1105_052748](https://github.com/user-attachments/assets/36b42701-141d-4c01-862c-7cf88312181d)
+
 
 ## NETWORK STACK 
 
-![Screenshot_2024_1105_052830](https://github.com/user-attachments/assets/fd2c6097-dec2-4214-8325-163034aa4b82)
 
 
  ### TCP /IP 
  provide reliable transmission of       data. 
 
- ### UDP 
-  provides faster but less reliable      transmission of data.
-
-![Screenshot_2024_1105_052918](https://github.com/user-attachments/assets/a1e56df2-7b6e-4e6f-b1d3-2f03495e72ca).
-
-![Screenshot_2024_1105_052948](https://github.com/user-attachments/assets/88f542b9-801f-4c32-bc7f-83a217d39e79)
-
-![Screenshot_2024_1105_053100](https://github.com/user-attachments/assets/8d9e9c19-688d-47a9-9989-cd436cee851f)
 
 ## Packet flow, also known as network flow or traffic flow:- 
 
 it is the sequence of packets that travel from a source computer to a destination.
 
 •Packets are segments of data that are routed through a network of interconnected devices, such as switches and routers, before reaching their destination. 
-
---below images shows network setup for packet flow 
-
-![Screenshot_2024_1105_053158](https://github.com/user-attachments/assets/13ed4b6d-3535-424e-8164-9d480751e39b)
-
-![Screenshot_2024_1105_053234](https://github.com/user-attachments/assets/b407425a-12ba-470a-afb3-f3bca7ca0325)
-
 
 
