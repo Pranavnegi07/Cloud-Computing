@@ -7,8 +7,7 @@ Concepts of cloud computing, basics, related topics details
 
 Cloud computing is the delivery of computing services—including servers, storage, databases, networking, software, analytics, and intelligence—over the Internet ("the cloud"). This allows for faster innovation, flexible resources, and economies of scale.
 
-![Screenshot_2024_0918_123503](https://github.com/user-attachments/assets/5301d869-b3ae-46c5-9d6c-8bc54028f445)
-
+![Screenshot_2024_0918_123503](https://www.infosectrain.com/wp-content/uploads/2023/07/architecture-of-cloud-computing-.jpg)
 # Docker:- 
 
 Docker is a software platform that allows you to build, test, and deploy applications quickly. Docker packages software into standardized units called containers that have everything the software needs to run including libraries, system tools, code, and runtime. Using Docker, you can quickly deploy and scale applications into any environment and know your code will run.
