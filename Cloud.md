@@ -863,7 +863,6 @@ it acts as a layer that allows containers to send and receive data seamlessly ac
 
 when we send email or web page the data does not travel as single continuous stream instead is broken down into smaller chunks called packets .
 
-![Screenshot_2024_1105_051355](https://github.com/user-attachments/assets/74909f19-be19-4184-b598-b27aacb28201)
 
 ## key functions of network core :-
 
