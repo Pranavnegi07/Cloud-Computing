@@ -5,37 +5,36 @@ Concepts of cloud computing, basics, related topics details
 
 # Cloud Computing:- 
 
-Cloud computing is the delivery of computing services—including servers, storage, databases, networking, software, analytics, and intelligence—over the Internet ("the cloud"). This allows for faster innovation, flexible resources, and economies of scale.
+Cloud computing is the provision of computing services over the Internet, or "the cloud." These services include servers, storage, databases, networking, software, analytics, and intelligence, enabling faster innovation, resource flexibility, and cost efficiencies at scale.
 
 ![Screenshot_2024_0918_123503](https://www.infosectrain.com/wp-content/uploads/2023/07/architecture-of-cloud-computing-.jpg)
 # Docker:- 
 
-Docker is a software platform that allows you to build, test, and deploy applications quickly. Docker packages software into standardized units called containers that have everything the software needs to run including libraries, system tools, code, and runtime. Using Docker, you can quickly deploy and scale applications into any environment and know your code will run.
+Docker is a software platform designed to facilitate the rapid building, testing, and deployment of applications. It packages software into standardized units known as containers, which include everything needed for the software to run, such as libraries, system tools, code, and runtime. With Docker, you can deploy and scale applications across any environment with confidence that your code will operate consistently.
 
-![Screenshot_2024_0918_124023](https://github.com/user-attachments/assets/03fdbbef-5f0d-4a17-8797-f8e8ca8a5f58)
+![Screenshot_2024_0918_124023](https://jfrog.file.force.com/servlet/servlet.ImageServer?id=01569000008kqFT&oid=00D20000000M3v0&lastMod=1631619825000)
  
- # Key features of Docker include:-;
+ # Key features of Docker include:-
 
 # 1.Containerization: 
-Applications run in isolated environments, which makes them portable and easy to manage.
+Applications run in isolated environments, making them portable and straightforward to manage.
 
 # 2. Images and Dockerfile: 
-Docker uses images as blueprints for containers. A Dockerfile is a script that contains instructions to build an image.
+Docker uses images as templates for creating containers. A Dockerfile is a script with a set of instructions to build an image.
 
 # 3. Docker Hub:
-A cloud-based registry where users can share and distribute Docker image
+A cloud-based registry enables users to store, share, and distribute Docker images.
 
 # How Docker works:- 
 
-Docker works by providing a standard way to run your code. Docker is an operating system for containers. Similar to how a virtual machine virtualizes .containers virtualize the operating system of a server. Docker is installed on each server and provides simple commands you can use to build, start, or stop containers.
-
-![Screenshot_2024_0918_123713](https://github.com/user-attachments/assets/332ee150-9a0a-4ca4-911e-91eec2471109)
+Docker functions by providing a standardized way to execute code. It acts as an operating system for containers, similar to how a virtual machine virtualizes hardware. Containers, however, virtualize the server’s operating system. With Docker installed on each server, you can use straightforward commands to build, start, or stop containers.
+![Screenshot_2024_0918_123713](https://phoenixnap.com/kb/wp-content/uploads/2024/01/container-vs-virtual-machine-what-is-docker.jpg)
 
 # What is the structure of a Docker image?:- 
 
 A Docker image is composed of multiple layers stacked on top of each other. Each layer represents a specific modification to the file system (inside the container), such as adding a new file or modifying an existing one. Once a layer is created, it becomes immutable, meaning it can't be changed.
 
-![Screenshot_2024_0918_124113](https://github.com/user-attachments/assets/57b191a7-c6aa-40d8-ae5b-336b9d8a8029)
+![Screenshot_2024_0918_124113](https://media.geeksforgeeks.org/wp-content/uploads/20221205115118/Architecture-of-Docker.png)
 
 
 # HOW TO INSTALL DOCKER:- 
