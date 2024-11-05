@@ -164,7 +164,7 @@ They are much smaller in size, typically ranging from tens of megabytes to a few
 They can support a higher number of applications compared to traditional virtual machines.
 They require fewer virtual machines and operating systems, making them a more resource-efficient option.
 
-![Screenshot_2024_0918_124201](https://github.com/user-attachments/assets/6f6cd7ae-eee7-4b0b-b614-313b4e8000bd)
+![Screenshot_2024_0918_124201](https://www.docker.com/wp-content/uploads/2021/11/docker-containerized-and-vm-transparent-bg.png)
 
 # NGINX:-
 
