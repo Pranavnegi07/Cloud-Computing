@@ -623,23 +623,12 @@ http://server_ip:8001/api/v1/namespaces/kubernetes-dashboard/services/http:kuber
 
 ![Screenshot_2024_0923_213426](https://github.com/user-attachments/assets/16ca5aa7-e6db-47d4-b005-2794b6c4289b)
 
-# KVM:- Kernel-based Virtual Machine
-
-KVM (Kernel-based Virtual Machine) is a technology that enables multiple operating systems to run on a single physical machine. By turning the Linux kernel into a hypervisor, KVM allows virtual machines (VMs) to function independently, as if they were separate computers.
-
-![Screenshot_2024_1104_185025](https://github.com/user-attachments/assets/aea55019-b763-4d9d-b8e1-05dec28115e5)
 
 # Openstack :-
 
 OpenStack is an open-source platform that enables the creation and management of cloud computing services. It provides a web interface for controlling computing power, storage, and networking resources in a data center. This allows organizations to build their own private or public clouds, simplifying the deployment and management of applications.
 
 ![Screenshot_2024_1104_185043](https://object-storage-ca-ymq-1.vexxhost.net/swift/v1/6e4619c416ff4bd19e1c087f27a43eea/www-assets-prod/openstack-map/openstack-map-v20240401.png)
-
-# QEMU
-
-QEMU is an open-source emulator and virtualization tool that allows you to run different operating systems on a host machine.
-
-![Screenshot_2024_1104_185120](https://github.com/user-attachments/assets/0a1473de-99d1-4119-b9dd-236278fd6341)
 
 
 # VPC
