@@ -686,15 +686,6 @@ Amazon Virtual Private Cloud (VPC) is a virtual network that allows users to lau
 
 # NETWORKING 
 
-![Screenshot_2024_1105_055827](https://templates.visual-paradigm.com/repository/images/28b59946-50c7-4b65-8c3d-4753c276acd4/network-diagram-design/computer-network-diagram-template.png)
-
-
-## what is client and server 
-( below image shows this )
-
-![Screenshot_2024_1105_050813](https://github.com/user-attachments/assets/6246f115-7109-4ec4-87a4-e466770f5e7c)
-
-
 ### types of network 
 
 ![Screenshot_2024_1105_071234](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirLeSagDIvqf5VQpAIankKXm3uMvUPceToM722xg6sE8bK7wcL8aU6nnhIht_LG6p5SMy_GkpfTbsnmrfmAR5d52B4Pj8-HrrxzXOuPyWdMe3PR2DyN6bCix7aFZ-uOTFKvZFpcj2GDKI/s1600/Types+of+Computer+Networks+%28www.tutorialsmate.com%29.png)
