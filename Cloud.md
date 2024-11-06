@@ -641,7 +641,8 @@ Amazon Virtual Private Cloud (VPC) is a virtual network that allows users to lau
 
 ### Go to VPC and create a VPC then we  have to create 4 subnets , where 2     subnets are private and other two are  public .
 
-![Screenshot_2024_1104_181237](https://github.com/user-attachments/assets/25f8774d-56f0-426e-8cf2-eee68511767e)
+![Screenshot 2024-11-06 130744](https://github.com/user-attachments/assets/69c1c2c7-7b44-4fc5-9d73-d36aa78a7935)
+
 
 
 ![Screenshot_2024_1104_181126](https://github.com/user-attachments/assets/0512bbc2-f00c-4f5e-b853-63032d26e6e1)
