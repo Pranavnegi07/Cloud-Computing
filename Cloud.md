@@ -655,9 +655,6 @@ Amazon Virtual Private Cloud (VPC) is a virtual network that allows users to lau
 ![Screenshot 2024-11-06 125549](https://github.com/user-attachments/assets/f08b24c2-cc4e-49b1-9e7f-9d2390ed214a)
 
 
-
-•2nd we have to create VPG virtual      privaye gate, and connect to VPC .
-
 ## route tables 
 
 
