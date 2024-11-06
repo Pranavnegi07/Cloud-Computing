@@ -644,50 +644,30 @@ Amazon Virtual Private Cloud (VPC) is a virtual network that allows users to lau
 ![Screenshot 2024-11-06 130744](https://github.com/user-attachments/assets/69c1c2c7-7b44-4fc5-9d73-d36aa78a7935)
 
 
+![Screenshot 2024-11-06 125448](https://github.com/user-attachments/assets/40f24cd8-b8af-4f59-8530-f6a60efbe3f7)
 
-![Screenshot_2024_1104_181126](https://github.com/user-attachments/assets/0512bbc2-f00c-4f5e-b853-63032d26e6e1)
 
-## create  gateways:- 
 
- 1st  create INTERNET GATWAY , whic is  to be connected to your VPC which is   created earliy.
+## gateways:- 
 
-![Screenshot_2024_1104_181831](https://github.com/user-attachments/assets/a3bb96a9-b738-4031-a65b-d169b25fd263)
+ INTERNET GATWAY , whic is  to be connected to your VPC which is   created earliy.
+
+![Screenshot 2024-11-06 125549](https://github.com/user-attachments/assets/f08b24c2-cc4e-49b1-9e7f-9d2390ed214a)
+
 
 
 •2nd we have to create VPG virtual      privaye gate, and connect to VPC .
 
-## create route tables 
-
-•Now we have to go to the route table   and create 2 route table , one for     IGW and another for VGW .
-
-![Screenshot_2024_1104_181847](https://github.com/user-attachments/assets/77c3730e-5cf4-4a0d-a78d-ac070f231688)
-
-•Now we have to connect two public      subnet in myigw and on other we have   to add the private subnets .
-
-![Screenshot_2024_1104_182425](https://github.com/user-attachments/assets/555833f8-2889-4028-b563-89596c844143)
-
-## create instances
-
-• now we have to create two instnaces    where we have to enable the public     IPv4 .
-
-•then on both instance we have to       downlaod the web server here i have    downlaoded the apache2 server
-
--- after that i chech that my             instances are working or not .
-
-![Screenshot_2024_1104_182258](https://github.com/user-attachments/assets/c913fb61-bc91-43d2-bd2a-47fdba5e508e)
-
-## now we have to create the load         balancer
-
---where we have to give vpc, aviablity   zone of the ec2 instance
-
-•then we have to create the target      group where we have to select the two  insatance we have create then we have  to go to helath check edited option    which was present below the load       balancer is create ,then edit it as    given below image
+## route tables 
 
 
-![Screenshot_2024_1104_182902](https://github.com/user-attachments/assets/0ae0ab8a-9196-486b-ad41-b9e27c901240)
+![Screenshot 2024-11-06 130136](https://github.com/user-attachments/assets/87a743ab-0484-476f-bc44-1b6efa546b94)
 
-•after that come to load balancer       where we have to select the target     group which we have created then make  the load balancer , it will look like  the given image below .
 
-![Screenshot_2024_1104_183106](https://github.com/user-attachments/assets/a891ba72-6a20-4f33-89c2-cbe07cd88904)
+##  load  balanceR
+
+![image](https://github.com/user-attachments/assets/2bb320a8-a678-4140-9a30-817bebcd54a4)
+
 
 ![Screenshot_2024_1104_183126](https://github.com/user-attachments/assets/1c5a8cf9-ff8d-4565-8968-7d1c0df5920a)
 
